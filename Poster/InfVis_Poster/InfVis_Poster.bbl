@@ -5,6 +5,12 @@ A.~B. Jones and J.~M. Smith.
 \newblock {A}rticle {T}itle.
 \newblock {\em Journal title}, 13(52):123--456, March 2013.
 
+\bibitem{WEBSITE:1}
+United Nations Sustainable Development~Solutions Network.
+\newblock World happiness report.
+\newblock \url{https://www.kaggle.com/unsdsn/world-happiness}, March 2019.
+\newblock Accessed on 2020-11-15.
+
 \bibitem{Smith:2012qr}
 J.~M. Smith and A.~B. Jones.
 \newblock {\em {B}ook {T}itle}.
